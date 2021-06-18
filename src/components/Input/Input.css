@@ -1,0 +1,14 @@
+.sm {
+  padding: 10px;
+  font-size: small;
+}
+
+.md {
+  padding: 20px;
+  font-size: medium;
+}
+
+.lg {
+  padding: 30px;
+  font-size: large;
+}
